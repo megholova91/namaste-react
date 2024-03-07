@@ -1,4 +1,4 @@
-import { Logo as LogoImg } from "../../icons";
+import { Logo as LogoImg } from "../assets";
 
 const Header = () => {
   return (
