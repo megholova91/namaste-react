@@ -22,3 +22,26 @@
 - Error Handling
 - HTTPs
 - Tree Shaking - remove unused code
+
+# Food ordering app
+
+/\*\*
+
+- - Header
+-      - Logo
+-      - Nav Items
+- - Body
+-      - Search
+-      - RetaurantContainer
+-          - RetaurantCard
+-              - img
+-              - name of restaurant
+-              - cuisine
+-              - star rating
+-              - delivery time
+- - Footer
+-      - Copyright
+-      - About us
+-      - Links
+-      - Contact
+  \*/
